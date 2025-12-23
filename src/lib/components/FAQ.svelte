@@ -2,16 +2,16 @@
   import { Plus } from 'lucide-svelte';
 
   const faqs = [
-    "Can I add training after I complete my registration?",
-    "How do group passes work?",
-    "Do you have a justification letter to help persuade my organization to sponsor my attendance?",
-    "Can I request an accessibility accommodation to attend the event?",
-    "Is there a minimum age requirement to attend?",
-    "How can I book a room at one of the Sessions hotels?",
+    "Who can attend the EBS Symposium?",
+    "Do I need to be an EBS student to attend?",
+    "What is included in my ticket?",
+    "How do I register for the conference?",
+    "Are there group discounts available?",
     "Can I transfer my ticket to someone else?",
-    "Can I modify or cancel my registration?",
-    "Can I modify or cancel my training pass?",
-    "I have additional questions that weren't covered here. Who can I contact?"
+    "What should I bring to the event?",
+    "How do I access the career fair and speed dating sessions?",
+    "Where is the EBS Campus located and how do I get there?",
+    "Who can I contact for more information?"
   ];
 </script>
 

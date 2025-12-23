@@ -11,43 +11,40 @@
       
       <!-- Item 1 -->
       <div>
-        <h3 class="text-xl font-medium mb-3 text-[#110F28]">See what's next in payments and commerce</h3>
+        <h3 class="text-xl font-medium mb-3 text-[#110F28]">Connect with industry leaders and executives</h3>
         <p class="text-sm leading-relaxed text-gray-600">
-          Head to the main stage to see our biggest product announcements live, hear from renowned business leaders, and explore what's next for global commerce as AI-native models, agentic commerce, and crypto reshape how business gets done.
+          Hear from 45–55 renowned speakers including C-suite executives, entrepreneurs, and thought leaders from leading global companies. Gain insights into business strategy, leadership, innovation, and the trends shaping tomorrow's economy.
         </p>
       </div>
 
       <!-- Item 2 -->
       <div>
-        <h3 class="text-xl font-medium mb-3 text-[#110F28]">Learn how to meet the trends impacting your business</h3>
+        <h3 class="text-xl font-medium mb-3 text-[#110F28]">Access top-tier recruiting opportunities</h3>
         <p class="text-sm leading-relaxed text-gray-600 mb-4">
-          Build your own agenda of breakout talks covering the next wave of revenue models, AI-powered payment optimizations, designing exceptional customer experiences, and more. Whether you're a newcomer or experienced practitioner, you'll find talks that match your expertise.
+          Meet recruiters from McKinsey, BCG, Bain, Goldman Sachs, Morgan Stanley, and 50+ other leading firms. Participate in speed dating sessions, workshops, and exclusive networking formats designed to accelerate your career.
         </p>
       </div>
 
       <!-- Item 3 -->
       <div>
-        <h3 class="text-xl font-medium mb-3 text-[#110F28]">Expand your skills with training and certification</h3>
-        <p class="text-sm leading-relaxed text-gray-600 mb-3">Topics:</p>
+        <h3 class="text-xl font-medium mb-3 text-[#110F28]">Experience diverse event formats</h3>
+        <p class="text-sm leading-relaxed text-gray-600 mb-3">What's included:</p>
         <ul class="list-disc pl-5 text-sm leading-relaxed text-gray-600 space-y-1 mb-4">
-          <li>Increasing conversion and lowering network costs</li>
-          <li>Fighting fraud and managing disputes</li>
-          <li>Building your recurring revenue engine</li>
-          <li>Establishing your vertical SaaS platform</li>
-          <li>Increasing the global reach of your business with stablecoins</li>
-          <li>Developing an AI agent-ready checkout experience</li>
+          <li>Keynote speeches and panel discussions</li>
+          <li>Interactive workshops and interviews</li>
+          <li>Career fair with major employers</li>
+          <li>Speed dating with recruiters</li>
+          <li>Women in Business networking event</li>
+          <li>Exclusive corporate cruise with EBS Alumni</li>
         </ul>
-        <p class="text-sm leading-relaxed text-gray-600">
-          Included: On-site certification exams and hands-on workrooms (Wednesday and Thursday)
-        </p>
       </div>
 
-      <!-- Training Box -->
+      <!-- Info Box -->
       <div class="bg-gray-100 p-4 rounded-lg flex items-center justify-between group cursor-pointer hover:bg-gray-200 transition-colors">
         <div>
-          <p class="text-xs font-medium text-[#110F28]">Add training to your</p>
-          <p class="text-xs font-medium text-[#110F28]">conference pass at checkout.</p>
-          <p class="text-xs text-[#635bff] mt-1 group-hover:underline">Learn more</p>
+          <p class="text-xs font-medium text-[#110F28]">Join 1,100+ students and</p>
+          <p class="text-xs font-medium text-[#110F28]">young professionals from across Europe.</p>
+          <p class="text-xs text-primary-600 mt-1 group-hover:underline">View past editions</p>
         </div>
         <div class="w-6 h-6 rounded-full bg-gray-300 flex items-center justify-center">
             <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-gray-600"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
@@ -58,9 +55,9 @@
 
       <!-- Item 4 -->
       <div>
-        <h3 class="text-xl font-medium mb-3 text-[#110F28]">Make new connections in the expo hall</h3>
+        <h3 class="text-xl font-medium mb-3 text-[#110F28]">Build lasting professional relationships</h3>
         <p class="text-sm leading-relaxed text-gray-600">
-          Meet our partners and discover tools that extend Stripe's capabilities through demos and talks. Between sessions, join focused meetups to share ideas with peers, find opportunities to solve business challenges, and connect with the Stripe community that supports you year-round.
+          Network with ambitious peers, corporate partners, and EBS alumni in curated settings including wine tastings, evening receptions, and exclusive events. Build connections that extend far beyond the two-day conference.
         </p>
       </div>
 

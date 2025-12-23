@@ -6,9 +6,9 @@
     content?: string[];
   }
 
-  export let date = "April 28";
+  export let date = "September 18";
   export let items: AgendaItemType[] = [
-    { time: "All day", title: "Pre-conference training (add-on)", subtitle: "Partner Summit (for Stripe partners only)" }
+    { time: "All day", title: "Conference Day 1", subtitle: "Keynotes, panels, and networking" }
   ];
   export let tags: string[] = [];
 </script>
@@ -18,7 +18,7 @@
   <div class="lg:col-span-5">
     <h2 class="text-[clamp(2.5rem,5vw,4rem)] leading-none font-medium mb-8 text-[#110F28]">Agenda at<br>a glance</h2>
     <button class="bg-[#110F28] text-white text-xs font-medium px-6 py-3 rounded-full hover:bg-opacity-90 transition-opacity">
-      Register
+      Get Tickets
     </button>
   </div>
 
@@ -27,7 +27,7 @@
     <div class="flex gap-2 mb-8">
       {#each tags as tag}
         <span class="inline-flex items-center gap-1.5 px-2 py-1 rounded bg-gray-100 text-[10px] font-medium text-gray-600 uppercase tracking-wide">
-          <span class="w-2 h-2 rounded-sm bg-[#635bff]"></span>
+          <span class="w-2 h-2 rounded-sm bg-primary-600"></span>
           {tag}
         </span>
       {/each}

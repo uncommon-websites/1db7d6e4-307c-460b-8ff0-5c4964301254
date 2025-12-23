@@ -3,18 +3,29 @@
 @theme {
   --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   
-  --color-stripe-dark: #0A2540;
-  --color-stripe-purple: #635bff;
-  --color-session-dark: #110F28; /* Dark purple from footer/buttons */
-  --color-session-accent: #6C6C89; /* Gray text */
+  --color-ebs-dark: #110F28; /* Dark purple from footer/buttons */
+  --color-ebs-accent: #6C6C89; /* Gray text */
   --color-bg-light: #F7F7F8;
+
+  /* Primary Brand Colors */
+  --color-primary-50: oklch(0.977 0.013 236.62);
+  --color-primary-100: oklch(0.951 0.026 236.824);
+  --color-primary-200: oklch(0.901 0.058 230.902);
+  --color-primary-300: oklch(0.828 0.111 230.318);
+  --color-primary-400: oklch(0.746 0.16 232.661);
+  --color-primary-500: oklch(0.685 0.169 237.323);
+  --color-primary-600: oklch(0.588 0.158 241.966);
+  --color-primary-700: oklch(0.5 0.134 242.749);
+  --color-primary-800: oklch(0.443 0.11 240.79);
+  --color-primary-900: oklch(0.391 0.09 240.876);
+  --color-primary-950: oklch(0.293 0.066 243.157);
 }
 
 @layer base {
   body {
     font-family: var(--font-sans);
     background-color: var(--color-bg-light);
-    color: var(--color-session-dark);
+    color: var(--color-ebs-dark);
     -webkit-font-smoothing: antialiased;
   }
 }

@@ -10,7 +10,7 @@
   import Footer from "$lib/components/Footer.svelte";
 </script>
 
-<main class="bg-[#F7F7F8] min-h-screen font-sans text-[#110F28] selection:bg-[#635bff] selection:text-white">
+<main class="bg-[#F7F7F8] min-h-screen font-sans text-[#110F28] selection:bg-primary-600 selection:text-white">
   <Header />
   <Hero />
   <WhyAttend />
